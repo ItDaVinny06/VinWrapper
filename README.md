@@ -1,22 +1,26 @@
 # GoAnimate Assets
-This is a cool recreation of the `d3v4eglovri8yt` CloudFront server used by GoAnimate's Legacy Video Maker prior to its retirement, along with a bunch of community-made mods.
+This is a recreation of the `d3v4eglovri8yt.cloudfront.net` aite used by Legacy Video Make, this has custom clothing and alot of other things.
 
-## How to Contribute
-Simply make a pull request.
+## Disclaimer
+VinWrapper Mods is private and permission is granted to anyone ItDaVinny06 trusts.
 
 ## To Use the Asset Library
-In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), Set the contents of `config.json` to:
+In VinWrapper Set the contents of `config.json` to:
 ```
 {
-        "SWF_URL": "https://2epik4u.github.io/GoAnimate-Modded-Assets/animation/414827163ad4eb60",
-        "STORE_URL": "https://2epik4u.github.io/GoAnimate-Modded-Assets/store/3a981f5cb2739137",
-        "CLIENT_URL": "https://2epik4u.github.io/GoAnimate-Modded-Assets/static/ad44370a650793d9"
+        "SWF_URL": "https://itdavinny06.github.io/VinWrapper/animation/414827163ad4eb60",
+        "STORE_URL": "https://itdavinny06.github.io/VinWrapper/store/3a981f5cb2739137",
+        "CLIENT_URL": "https://itdavinny06.github.io/VinWrapper//static/ad44370a650793d9"
 }
 ```
 
 # Credits
 # Original Assets
 Vyond
+
+# VinWrapper Creator
+ItDaVinny06 / VenicioM
+
 # Custom Clothing & Other Custom Assets 
 Kenny Animate - Original idea
 Waleed Tariq2001
