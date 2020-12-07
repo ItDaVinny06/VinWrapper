@@ -5,12 +5,12 @@
 <char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
 <tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags>
 </char>
-<sound id="AdamRunningFX.wav" name="Adam Running" subtype="soundeffect" duration="1585" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
-<sound id="AdamWalkingFX.wav" name="Adam Walking" subtype="soundeffect" duration="1585" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="AdamRunningFX.wav" name="Adam Running" subtype="soundeffect" duration="3174" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="AdamWalkingFX.wav" name="Adam Walking" subtype="soundeffect" duration="4743" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="AlarmClockHitFX.mp3" name="Alarm Clock Hit" subtype="soundeffect" duration="1585" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="BeatUpFX.mp3" name="Beat Up" subtype="soundeffect" duration="12512" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
-<sound id="BobRunningFX.wav" name="Bob Running" subtype="soundeffect" duration="1585" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
-<sound id="BobWalkingFX.mp3" name="Bob Walking" subtype="soundeffect" duration="1585" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="BobRunningFX.wav" name="Bob Running" subtype="soundeffect" duration="3174" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="BobWalkingFX.mp3" name="Bob Walking" subtype="soundeffect" duration="3174" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="CarCrashFX.mp3" name="Car Crash" subtype="soundeffect" duration="6060" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="CarStartFX.mp3" name="Car Start" subtype="soundeffect" duration="8489" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="ClockFX.mp3" name="Clock" subtype="soundeffect" duration="8202" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
@@ -23,8 +23,8 @@
 <sound id="DoorCloseFX.mp3" name="Door (Close)" subtype="soundeffect" duration="856" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="DoorOpenFX.mp3" name="Door (Open)" subtype="soundeffect" duration="1039" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="DunDunDunFX.mp3" name="Dun Dun Dun!" subtype="soundeffect" duration="3866" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
-<sound id="EveRunningFX.wav" name="Eve Running" subtype="soundeffect" duration="1585" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
-<sound id="EveWalkingFX.wav" name="Eve Walking" subtype="soundeffect" duration="1585" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="EveRunningFX.wav" name="Eve Running" subtype="soundeffect" duration="1600" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="EveWalkingFX.wav" name="Eve Walking" subtype="soundeffect" duration="4767" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="FatGuySongFX.mp3" name="Fat Guy Song V2" subtype="bgmusic" duration="136176" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="FryingPanHitFX.mp3" name="Frying Pan Hit" subtype="soundeffect" duration="809" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="GameStopLogo.png" name="GameStop Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
@@ -42,8 +42,8 @@
 <sound id="PaperCrumpleFX.mp3" name="Paper Crumpling" subtype="soundeffect" duration="5616" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <prop id="PS5.png" name="PS5 Box" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="PunchFX.mp3" name="Punch" subtype="soundeffect" duration="1567" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
-<sound id="RockyRunningFX.wav" name="Rocky Running" subtype="soundeffect" duration="1585" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
-<sound id="RockyWalkingFX.wav" name="Rocky Walking" subtype="soundeffect" duration="1585" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="RockyRunningFX.wav" name="Rocky Running" subtype="soundeffect" duration="3176" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="RockyWalkingFX.wav" name="Rocky Walking" subtype="soundeffect" duration="3154" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="ScaryVoiceFX.mp3" name="Scary Voice" subtype="soundeffect" duration="13897" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="SchoolBellFX.mp3" name="School Bell" subtype="soundeffect" duration="3500" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="SchoolFX.mp3" name="School Hallway" subtype="soundeffect" duration="150387" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
