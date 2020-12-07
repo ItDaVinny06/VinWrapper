@@ -1,8 +1,8 @@
 # GoAnimate Assets
-This is a recreation of the `d3v4eglovri8yt.cloudfront.net` aite used by Legacy Video Make, this has custom clothing and alot of other things.
+This is a recreation of the `d3v4eglovri8yt.cloudfront.net` site used by Legacy Video Maker, this has custom clothing and alot of other things.
 
 ## Disclaimer
-VinWrapper Mods is private and permission is granted to anyone ItDaVinny06 trusts.
+VinWrapper is private and permission is granted to certain people.
 
 ## To Use the Asset Library
 In VinWrapper Set the contents of `config.json` to:
