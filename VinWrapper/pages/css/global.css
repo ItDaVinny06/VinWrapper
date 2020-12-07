@@ -101,7 +101,7 @@ header {
 	padding: 2px 20px;
 	clear: both;
 	font-weight: normal;
-	color: #333;
+	color: #fff;
 	text-decoration: none;
 }
 
@@ -111,12 +111,12 @@ header {
 }
 
 #char_dropdown>menu>a:hover {
-	color: #d85e27;
-	background-color: #f5f5f5;
+	color: #fff;
+	background-color: #fff;
 }
 
 #char_dropdown>menu>hr {
-	border: 1px solid #e5e5e5;
+	border: 1px solid #fff;
 	margin: 10px 0;
 }
 
@@ -170,16 +170,16 @@ td {
 }
 
 thead {
-	border-bottom: 2px solid #ddd;
+	border-bottom: 2px solid #fff;
 }
 
 tbody>tr {
 	border-top: 0;
-	border-bottom: 1px solid #ddd;
+	border-bottom: 1px solid #fff;
 }
 
 tbody>tr:hover {
-	background-color: #f5f5f5;
+	background-color: #fff;
 }
 
 tr>:nth-child(1) {
@@ -195,7 +195,7 @@ tr>:nth-child(1) {
 }
 
 tr>:nth-child(2) {
-	color: #999;
+	color: #fff;
 }
 
 tr>:nth-child(3) {
@@ -221,7 +221,7 @@ tr>:nth-child(4)>a {
 	display: inline-block;
 	text-decoration: none;
 	padding-right: 10px;
-	color: #474747;
+	color: #fff;
 }
 
 tr>:nth-child(4)>a:hover {
@@ -247,7 +247,7 @@ tfoot>tr>td {
 
 tfoot>tr>td>a {
 	text-decoration: none;
-	color: #474747;
+	color: #fff;
 	font-size: 14px;
 }
 
