@@ -34,6 +34,7 @@
 <sound id="iPhoneSoundDefaultFX.mp3" name="iPhone Sound - Default" subtype="soundeffect" duration="1933" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="iPhoneSoundDingFX.mp3" name="iPhone Sound - Ding" subtype="soundeffect" duration="5485" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="JeopardyThinkingMusicFX.mp3" name="Jeopardy Thinking Music" subtype="soundeffect" duration="32130" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="KFCLogo.png" name="KFC Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="KnockingFX.mp3" name="Knocking" subtype="soundeffect" duration="3709" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="LightSwitchFX.mp3" name="Light Swtich" subtype="soundeffect" duration="723" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
 <sound id="LoserHornFX.mp3" name="Loser Horn" subtype="soundeffect" duration="6086" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
